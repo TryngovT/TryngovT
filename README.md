@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TryngovT, Stoicho D. Stoichev
+- 👋 Hi, Stoicho D. Stoichev,professor at the dept. of Compute Systems,TU-Sofia, Bulgaria
 - 👀 I’m interested in graph algorithms
 - 🌱 I’m currently learning git, github
 - 💞️ I’m looking to collaborate on graph algorithms
