@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TryngovT, Stoicho D. Stoichev
 - 👀 I’m interested in graph algorithms
-- 🌱 I’m currently learning git github
+- 🌱 I’m currently learning git, github
 - 💞️ I’m looking to collaborate on graph algorithms
 - 📫 How to reach me: stoi@tu-sofia.bg
 
